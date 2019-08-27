@@ -1,4 +1,4 @@
-ldef my_hash
+def my_hash
 my_hash = {"cat" => "Magyc"}
 
   
